@@ -6,7 +6,7 @@
 
 **Mali** is an open-source study project building a causal autoregressive Transformer language model from first principles in raw PyTorch—no high-level wrapper libraries (no Hugging Face `Trainer`, no LangChain), just raw tensor operations, attention math, and model architecture.
 
-Created by **Bradley Joe Joseph** (Second-Year MEng Computer Science with AI @ University of York).
+Created by **Bradley Joe (Joseph)** (Second-Year MEng Computer Science with AI @ University of York).
 
 ---
 
