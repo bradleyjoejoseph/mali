@@ -52,3 +52,4 @@ Created by **Bradley Joe (Joseph)** (Second-Year MEng Computer Science with AI @
 - **Deep Learning Framework**: PyTorch (raw tensors & `nn.Module`)
 - **Hardware Acceleration**: Apple Silicon MPS (Metal Performance Shaders) / CUDA / CPU
 - **Testing**: `pytest`
+ 
