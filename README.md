@@ -1,10 +1,10 @@
-# Mali — Building an Autoregressive Transformer from Scratch
+# Malibu — Building an Autoregressive Transformer from Scratch
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-blue.svg?style=flat-square)](#)
 
-**Mali** is an open-source study project building a causal autoregressive Transformer language model from first principles in raw PyTorch—no high-level wrapper libraries (no Hugging Face `Trainer`, no LangChain), just raw tensor operations, attention math, and model architecture.
+**Malibu** is an open-source study project building a causal autoregressive Transformer language model from first principles in raw PyTorch—no high-level wrapper libraries (no Hugging Face `Trainer`, no LangChain), just raw tensor operations, attention math, and model architecture.
 
 Created by **Bradley Joe (Joseph)** (Second-Year MEng Computer Science with AI @ University of York).
 
